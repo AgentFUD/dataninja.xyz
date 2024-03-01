@@ -6,7 +6,6 @@ require 'recipe/laravel.php';
 // Config
 
 set('repository', 'git@github.com:AgentFUD/dataninja.xyz.git');
-// set('sub_directory', 'src');
 
 add('shared_files', []);
 add('shared_dirs', []);
